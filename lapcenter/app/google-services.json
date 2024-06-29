@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638214381903",
+    "project_id": "lap-center",
+    "storage_bucket": "lap-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638214381903:android:48d1b2602d01705e60e53a",
+        "android_client_info": {
+          "package_name": "com.example.lapcenter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHyAvfYQcklcUxEAMoG3vRvYdXpc4X83c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
